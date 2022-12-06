@@ -1,5 +1,6 @@
 from random import randint
 
+# Версия без классов.
 # Новый импорт.
 # Из модуля start_game_banner, который расположен в папке graphic_arts,
 # импортируем функцию run_screensaver().
